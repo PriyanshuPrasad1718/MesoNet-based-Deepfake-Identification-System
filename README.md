@@ -16,6 +16,10 @@ The MesoNet-based Deepfake Identification System is a project aimed at detecting
 The research paper detailing the methodology and results of the MesoNet-based Deepfake Identification System can be accessed via the following link:
 
 MesoNet: https://arxiv.org/pdf/1809.00888.pdf
+
+## Model :
+![download](https://github.com/user-attachments/assets/8a6b763a-718c-4b7a-819d-6332f442ccff)
+
 ## Tech Stack
 **Programming Language:** Python
 
